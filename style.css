@@ -1,0 +1,13 @@
+.cal {
+  width: 400px;
+  height: 600px;
+}
+.screen {
+  background-color: #fe0509;
+}
+.box {
+  height: 20%;
+}
+.cal-screen {
+  background-color: lightslategray;
+}
